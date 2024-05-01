@@ -24,7 +24,7 @@
 </table>  
 
 <hr/>
-## ✏️참고 자료 ##
+## ✏️참고 자료
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 - https://github.com/devyyj/Valkyrie_Prepared/blob/main/README.md
 - https://github.com/Songwonseok/CS-Study
