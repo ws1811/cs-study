@@ -5,10 +5,23 @@
 <hr/>
 ##⭐참여자⭐##
 
-|이름|깃허브 프로|
-|:----------------|:----:|:----:|:----:|:----:|
-|송원선      |https://github.com/ws1811|
-|한슬기      ||
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://avatars.githubusercontent.com/ws1811" width="120px;" alt=""/><br />
+        <sub><b>송원선</b></sub></a><br />
+        <a href="https://github.com/ws1811" title="Code">💻</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="" width="120px;" alt=""/><br />
+        <sub><b>한슬기</b></sub></a><br />
+        <a href=" title="Code">💻</a>
+    </td>
+  </tr>
+</table>  
+
 
 <hr/>
 
