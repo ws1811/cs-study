@@ -1,10 +1,8 @@
 ## 🔥CS 스터디🔥 ##
 - 매 주 수요일 15:00 ~ 17:00 사당역
 - 매 주 정해진 주제 학습, 모의면접 방식으로 진행합니다.
-
-<hr/>
-<br/>
-## ⭐ 참여자
+   
+## ⭐ 참여자 ⭐ ##
 
 <table>
   <tr>
@@ -22,7 +20,7 @@
     </td>
   </tr>
 </table>  
-
+   
 <hr/>
 ## ✏️참고 자료
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
