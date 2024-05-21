@@ -1,7 +1,7 @@
 # Oracle vs MySQL    
 
 ### 0. 왜 이 주제를 골랐나요?   
--> 저는 Oracle 만 주구장창 다뤄왔지만 입사하게된 회사에서는 MySQL을 사용하고 있기 때문에 두 RDBMS가 어떤 차이점이 있는지 학습해보고자 이 주제로 선정하였습니다.
+-> 저는 Oracle 만 주구장창 다뤄왔지만 입사하게된 회사에서는 MySQL을 사용하고 있기 때문에 두 RDBMS가 어떤 차이점이 있는지 알아보고, MySQL을 겉핥기라도 학습해보고자 이 주제로 선정하였습니다.
 
 ### 1. 전반적인 차이
 <table>
@@ -49,7 +49,7 @@
 
 
 
-### 2.구문 차이 
+### 2. 구문 차이 
 <table>
   <tr>
     <th></th>
@@ -108,3 +108,9 @@
   </tr>
 </table>
 
+
+### 3. MySQL 학습   
+
+#### 참고중인 문서    
+https://dev.mysql.com/doc/refman/8.3/en/   
+https://blog.koehntopp.info/2022/04/15/sql-engineering-guidelines.html
