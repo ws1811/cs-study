@@ -7,7 +7,7 @@
 <table>
   <tr>
     <th></th>
-    <th style="background : blue">Oracle</th>
+    <th>Oracle</th>
     <th>MySQL</th>
   </tr>
   <tr>
