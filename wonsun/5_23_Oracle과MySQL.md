@@ -47,3 +47,64 @@
   </tr>
 </table>
 
+
+
+### 2.구문 차이 
+<table>
+  <tr>
+    <th></th>
+    <th>Oracle</th>
+    <th>MySQL</th>
+  </tr>
+  <tr>
+    <th>NULL 체크 (NULL 치환)</th>
+    <th>NVL</th>
+    <th>IFNULL</th>
+  </tr>
+  <tr>
+    <th>현재 날짜 & 시간</th>
+    <th>SYSDATE</th>
+    <th>DATE()</th>
+  </tr>
+  <tr>
+    <th>날짜 포맷 (날짜형 -> 문자형)</th>
+    <th>TO_CHAR()</th>
+    <th>DATE_FORMAT()</th>
+  </tr>
+  <tr>
+    <th>요일 인식(숫자)</th>
+    <th>일요일 : 1 ~~~ 토요일 : 7</th>
+    <th>일요일 : 0 ~~~ 토요일 : 6</th>
+  </tr>
+  <tr>
+    <th>문자 연결</th>
+    <th> ' || '</th>
+    <th>CONCAT()</th>
+  </tr>
+  <tr>
+    <th>형변환</th>
+    <th>TO_CHAR(), TO_NUMBER()</th>
+    <th>CAST</th>
+  </tr>
+  <tr>
+    <th>형변환 예시</th>
+    <th>SELECT TO_CHAR(1234) FROM DUAL</th>
+    <th>SELECT CAST(1234 AS CHAR) FROM DUAL</th>
+  </tr>
+  <tr>
+    <th>대소문자 구분</th>
+    <th>구분 안함</th>
+    <th>구분함(설정변경 가능)</th>
+  </tr>
+  <tr>
+    <th>상위 N개 / 페이징</th>
+    <th>ROWNUM</th>
+    <th>LIMIT</th>
+  </tr>
+  <tr>
+    <th>페이징 예시</th>
+    <th>SELECT ... WHERE ROWNUM <= 10</th>
+    <th>SELECT ... FROM ### LIMIT 10</th>
+  </tr>
+</table>
+
